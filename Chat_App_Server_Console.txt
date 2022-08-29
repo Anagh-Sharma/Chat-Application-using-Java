@@ -1,0 +1,42 @@
+Message	:	Binding to port : 9999
+Message	:	Socket created	: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=9999]
+Message	:	Server waiting for a client
+Message	:	Binding to port : 9999
+Message	:	Socket created: Socket[addr=localhost/127.0.0.1,port=9999,localport=63133]
+Message	:	Socket created: Socket[addr=/127.0.0.1,port=63133,localport=9999]
+Message	:	Client number: 1
+Message	:	Connected with Server and Streams established.
+Message	:	Server waiting for a client
+System Message	:	Opening assets
+System Message	:	Conversing from server
+System Message	:	Opening assets
+System Message	:	Conversing from server
+Message	:	Binding to port : 9999
+Message	:	Socket created: Socket[addr=localhost/127.0.0.1,port=9999,localport=63134]
+Message	:	Socket created: Socket[addr=/127.0.0.1,port=63134,localport=9999]
+Message	:	Client number: 2
+Message	:	Connected with Server and Streams established.
+Message	:	Server waiting for a client
+System Message	:	Opening assets
+System Message	:	Opening assets
+System Message	:	Conversing from server
+System Message	:	Conversing from server
+Message	:	Binding to port : 9999
+Message	:	Socket created: Socket[addr=localhost/127.0.0.1,port=9999,localport=63135]
+Message	:	Socket created: Socket[addr=/127.0.0.1,port=63135,localport=9999]
+Message	:	Client number: 3
+Message	:	Connected with Server and Streams established.
+Message	:	Server waiting for a client
+System Message	:	Opening assets
+System Message	:	Opening assets
+System Message	:	Conversing from server
+System Message	:	Conversing from server
+Incoming:	Mr. Client	:	Anagh	:	Hello, Good Morning!
+Incoming:	Mr. Client	:	Papa	:	Good Morning! Great day in Dehradun Today!
+Incoming:	Mr. Client	:	Maa	:	It apears a little cloudy.
+Incoming:	Mr. Client	:	Anagh	:	Yes
+Incoming:	Mr. Client	:	Papa	:	Its forecasted to rain today.
+Incoming:	Mr. Client	:	Anagh	:	Ok, I'll bring an umbrella.
+Incoming:	Mr. Client	:	Maa	:	Okay. See you soon. Bye!
+Incoming:	Mr. Client	:	Papa	:	Bye!
+Incoming:	Mr. Client	:	Anagh	:	Bye
