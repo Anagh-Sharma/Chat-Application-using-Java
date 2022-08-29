@@ -4,7 +4,7 @@
 - Languages   : Java, MySQL
 - IDE used    : Eclipse IDE
 - Purpose:	
-  - Study application development in Java.
+	- Study application development in Java.
 	- Understand software development standards.
 	- Experiment with and demonstrate some key concepts studied in 
 	  Computer Science.
@@ -12,13 +12,13 @@
 -------------------------------------------------------------------------------------
 
 Concepts explored:
-	- Networking	:	- Socket Programming
-	- Multithreading:	- Used to implement threads for reading and writing on the 
-						  input and output streams of the Server and Clients.
-	- JDBC			:	- 2 Tier Architecture
-						- Establish a connection with database
-						- Run, DML and DQL queries
-	- Swing			:	- Frontend
+- Networking	:	Socket Programming
+- Multithreading:	Used to implement threads for reading and writing on the input and output streams of the Server and Clients.
+- JDBC:	
+	- 2 Tier Architecture
+	- Establish a connection with database
+	- Run, DML and DQL queries
+- Swing		:	Frontend
 	
 -------------------------------------------------------------------------------------
 
@@ -29,14 +29,11 @@ Components of the application:
 	- User Screen (Sign-In/Sign-Up)
 		- Constructor starts the server.
 		- Provides two methods:
-			- Sign-Up	:	- Executes the signUp method of UserDAO using 
-							  the entered credentials through a DTO object.
-			- Sign-In	:	- Executes signIn method of UserDAO using 
-							  the entered credentials through a DTO object.
-							- Creates a dash board object that introduces 
-							  the user to the application and informs the user 
-							  of their serial indicating how many users have joined 
-							  the server before them.
+			- Sign-Up:
+				- Executes the signUp method of UserDAO using the entered credentials through a DTO object.
+			- Sign-In:
+				- Executes signIn method of UserDAO using the entered credentials through a DTO object.
+				- Creates a dash board object that introduces the user to the application and informs the user of their serial indicating how many users have joined the server before them.
 	- Dashboard:
 		- The introduces the user to the application and informs the user 
 		  of their serial indicating how many users have joined the server 
@@ -78,21 +75,19 @@ Components of the application:
 			  
 2. DTO (Data Transfer Object)
 	- Class whose objects are used to store credentials for Sign-In/Sign-Up.
-3. DAP (Data access object)
+3. DAO (Data access object)
 	- Used for database related functionalities
 	- Classes whose objects provide database connectivity and transaction:
-	- ChatDAO	:	- Create a Connection based on the credentials in 
-					  config.properties.
-					- Return a Connection object.
-	- UserDAO	:	The class contains following two methods:
-					- signUp(UserDTO userDTO):
-						- Insert credentials from DTO object in the database.
-						- Returns an int value which if greater than 0 indicates 
-						  that the insertion was successful.
-					- signIn(UserDTO userDTO):
-						- Query the database with the entered user credentials 
-						- If the result of the query is non-empty then, the user 
-						  data exits and is thus valid.
+	- ChatDAO:	
+		- Create a Connection based on the credentials in config.properties.
+		- Return a Connection object.
+	- UserDAO:	The class contains following two methods:
+		- signUp(UserDTO userDTO):
+			- Insert credentials from DTO object in the database.
+			- Returns an int value which if greater than 0 indicates that the insertion was successful.
+		- signIn(UserDTO userDTO):
+			- Query the database with the entered user credentials 
+			- If the result of the query is non-empty then, the user data exits and is thus valid.
 4. Utilities
 	- config.properties
 		- Stores credentials for the application's database connections and 
@@ -114,7 +109,7 @@ Components of the application:
 				  is passed the reference for the socket that connects the 
 				  server to the new client, and a reference of the Server 
 				  object to broadcast the message to all Clients.
-			    - The run() method of Server Multithread is executed.
+			    	- The run() method of Server Multithread is executed.
 	- Server Multithread extends from Thread:
 		- An instance of Server Multithread is created when a client connects 
 		  to the Server.
