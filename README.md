@@ -8,7 +8,7 @@
 	- Understand software development standards.
 	- Experiment with and demonstrate some key concepts studied in 
 	  Computer Science.
-
+- Note:	Configure config.properties file as needed to implement the code.
 -------------------------------------------------------------------------------------
 
 Concepts explored:
