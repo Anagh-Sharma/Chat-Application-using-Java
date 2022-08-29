@@ -21,6 +21,34 @@ Concepts explored:
 - Swing		:	Frontend
 	
 -------------------------------------------------------------------------------------
+Preview:
+
+- Sign-Up/Sign-In Screen:
+![ChatApp1](https://user-images.githubusercontent.com/82096334/187277023-2af7c276-b02a-4e04-afec-46decec81305.png)
+- From here, either Sign-In or Sign-Up
+![ChatApp4](https://user-images.githubusercontent.com/82096334/187277178-e5907864-e984-4d86-89f3-0419603bdc9b.png)
+![ChatApp5](https://user-images.githubusercontent.com/82096334/187277199-ab49cfc2-5de0-4d85-a3b4-a9bac4114298.png)
+- Signing in three users:
+	- User 1:
+![ChatApp6](https://user-images.githubusercontent.com/82096334/187277435-9bf586ba-0931-4b79-b930-e277ac901715.png)
+![ChatApp6_1](https://user-images.githubusercontent.com/82096334/187277446-90c5ac82-7ad7-44b6-84cb-6439cc0cfd10.png)
+	- User 2:
+![ChatApp7](https://user-images.githubusercontent.com/82096334/187277478-3e836de5-0850-4635-aa73-b00ccd6b1bb5.png)
+![ChatApp7_1](https://user-images.githubusercontent.com/82096334/187277495-b53b6edf-38f6-4b9a-9510-a24fa0430570.png)
+	- User 3:
+![ChatApp8](https://user-images.githubusercontent.com/82096334/187277509-bf6ef92a-57f8-466e-a4a3-17ba6d988073.png)
+![ChatApp8_1](https://user-images.githubusercontent.com/82096334/187277526-b8e1dc6c-eff6-4a6b-be9e-a2c684cbfa57.png)
+	- The dashboards of all users:
+![ChatApp9](https://user-images.githubusercontent.com/82096334/187277750-c0e8ccaa-4c47-4b47-9132-e5d4c77fe5ec.png)
+- A simple conversion:
+	- Typing first message:
+![ChatApp10](https://user-images.githubusercontent.com/82096334/187277848-b113b36c-86f6-48f1-aeab-15f5d68a34f5.png)
+	- Broadcasted to all clients on the Server:
+![ChatApp11](https://user-images.githubusercontent.com/82096334/187277988-1da20808-cbce-4dc2-88f3-d012e01f9610.png)
+	- A simple conversation
+![ChatApp13](https://user-images.githubusercontent.com/82096334/187278151-b707b373-3cf9-43b1-8deb-519f52130efb.png)
+
+-------------------------------------------------------------------------------------
 
 Components of the application:
 
