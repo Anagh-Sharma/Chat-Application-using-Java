@@ -191,3 +191,6 @@ Components of the application:
 			  TextArea object whose reference was passed to it.
 	
 -------------------------------------------------------------------------------------
+
+Background image credit:
+<a href="https://www.freepik.com/free-vector/hand-drawn-decorative-cartoon-speech-bubbles-sketch_15678115.htm">Image by Harryarts</a> on Freepik
