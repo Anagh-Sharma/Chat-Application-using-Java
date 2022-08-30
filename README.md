@@ -24,29 +24,40 @@ Concepts explored:
 Preview:
 
 - Sign-Up/Sign-In Screen:
-![ChatApp1](https://user-images.githubusercontent.com/82096334/187277023-2af7c276-b02a-4e04-afec-46decec81305.png)
+![ChatApp1](https://user-images.githubusercontent.com/82096334/187345549-a42243df-fd6c-477b-84a2-24e8ece415db.png)
+
 - From here, either Sign-In or Sign-Up
-![ChatApp4](https://user-images.githubusercontent.com/82096334/187277178-e5907864-e984-4d86-89f3-0419603bdc9b.png)
-![ChatApp5](https://user-images.githubusercontent.com/82096334/187277199-ab49cfc2-5de0-4d85-a3b4-a9bac4114298.png)
+![ChatApp4](https://user-images.githubusercontent.com/82096334/187345592-e864c7c1-084b-4e28-a3c5-e85450429229.png)
+![ChatApp5](https://user-images.githubusercontent.com/82096334/187345597-7076f1ce-2503-411e-99af-e8ed33882d4a.png)
+
 - Signing in three users:
 	- User 1:
-![ChatApp6](https://user-images.githubusercontent.com/82096334/187277435-9bf586ba-0931-4b79-b930-e277ac901715.png)
-![ChatApp6_1](https://user-images.githubusercontent.com/82096334/187277446-90c5ac82-7ad7-44b6-84cb-6439cc0cfd10.png)
+![ChatApp6](https://user-images.githubusercontent.com/82096334/187345628-420e419c-7016-46c2-a779-7505d4bace1f.png)
+![ChatApp6_1](https://user-images.githubusercontent.com/82096334/187345638-0778b553-75fd-4160-9540-32b6a8469338.png)
+
 	- User 2:
-![ChatApp7](https://user-images.githubusercontent.com/82096334/187277478-3e836de5-0850-4635-aa73-b00ccd6b1bb5.png)
-![ChatApp7_1](https://user-images.githubusercontent.com/82096334/187277495-b53b6edf-38f6-4b9a-9510-a24fa0430570.png)
+![ChatApp7](https://user-images.githubusercontent.com/82096334/187345663-081cb18e-18a5-4d32-b57f-a520e29db6a2.png)
+![ChatApp7_1](https://user-images.githubusercontent.com/82096334/187345679-7136908d-ae0a-4d41-bbdb-61e24b0d0396.png)
+
 	- User 3:
-![ChatApp8](https://user-images.githubusercontent.com/82096334/187277509-bf6ef92a-57f8-466e-a4a3-17ba6d988073.png)
-![ChatApp8_1](https://user-images.githubusercontent.com/82096334/187277526-b8e1dc6c-eff6-4a6b-be9e-a2c684cbfa57.png)
+![ChatApp8](https://user-images.githubusercontent.com/82096334/187345741-2f3b5c65-a061-4f25-b1ec-7fee0726eab5.png)
+![ChatApp8_1](https://user-images.githubusercontent.com/82096334/187345748-e3558e69-e898-4de0-80ca-cddb0e987984.png)
+
 	- The dashboards of all users:
-![ChatApp9](https://user-images.githubusercontent.com/82096334/187277750-c0e8ccaa-4c47-4b47-9132-e5d4c77fe5ec.png)
+![ChatApp9](https://user-images.githubusercontent.com/82096334/187345850-985a855a-0f59-4e3d-b6a4-d6e2e7268a1d.png)
+
 - A simple conversion:
 	- Typing first message:
-![ChatApp10](https://user-images.githubusercontent.com/82096334/187277848-b113b36c-86f6-48f1-aeab-15f5d68a34f5.png)
+![ChatApp10](https://user-images.githubusercontent.com/82096334/187345886-e54716c7-32ef-4b36-8dd0-7fef13a1b829.png)
+
 	- Broadcasted to all clients on the Server:
-![ChatApp11](https://user-images.githubusercontent.com/82096334/187277988-1da20808-cbce-4dc2-88f3-d012e01f9610.png)
+![ChatApp11](https://user-images.githubusercontent.com/82096334/187345909-8f4fb49a-97b3-44e1-8ad6-55536e0cb7a0.png)
+
 	- A simple conversation
-![ChatApp13](https://user-images.githubusercontent.com/82096334/187278151-b707b373-3cf9-43b1-8deb-519f52130efb.png)
+![ChatApp13](https://user-images.githubusercontent.com/82096334/187345926-8d4a6c41-a465-46c6-8668-19b5d0e7c78e.png)
+
+	- The chat window is indeed scrollable
+![ChatApp12](https://user-images.githubusercontent.com/82096334/187345963-b7e1a505-f23a-460c-963a-9cf8f683787e.png)
 
 -------------------------------------------------------------------------------------
 
